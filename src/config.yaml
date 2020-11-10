@@ -1,0 +1,2 @@
+DATA_LOC: './../DATA'
+data_file_pattern : '**.json'
