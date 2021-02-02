@@ -126,13 +126,12 @@ def test(input_syn_id=32):
         print(query_obj.df_Mapping.loc[query_obj.df_Mapping['synID']==r].title)
     return   
 
-test(250)
+# test(250)
+# test(32)
 
-test(32)
-
-
-# In[ ]:
-
-
+# =============================
+# doc_ID is the alphanumeric id in the data
+# syn_ID is the synthetic id created
+# =============================
 
 
